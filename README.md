@@ -1,5 +1,3 @@
-# justinthecowsp.github.io
-Computer Storage Systems
-Site by Justin and Huzaifah
-
-Contact: 348685728@gapps.yrdsb.ca
+[justinthecowsp.github.io](justinthecowsp.github.io)
+<h2>Computer Storage Systems</h2>
+<h2>Site by Justin and Huzaifah</h2>
